@@ -1,0 +1,1 @@
+(()=>{"use strict";var e={p:""};const n=e.p+"images/47692505d122dbcae490.png";document.body.appendChild(function(){const e=document.createElement("div");return e.innerHTML=`\n    <h1>Hello Webpack Project</h1>\n    <img src="${n}" alt="Logo">\n  `,e}())})();
